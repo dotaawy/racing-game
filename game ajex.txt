@@ -1,0 +1,6 @@
+document.addEventListener('DOMContentLoaded', (event) = {
+    const container = document.getElementById('game-container');
+    container.innerHTML = 'pThe game will be here!p';
+
+     Add game logic here
+});
